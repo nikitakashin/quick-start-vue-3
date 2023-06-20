@@ -1,0 +1,27 @@
+{
+  "name": "todo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/js": "^7.2.96",
+    "pinia": "^2.1.4",
+    "vue": "^3.2.47",
+    "vue-router": "^4.2.2"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.2.0",
+    "@vitejs/plugin-vue": "^4.1.0",
+    "@vue/eslint-config-prettier": "^7.1.0",
+    "eslint": "^8.39.0",
+    "eslint-plugin-vue": "^9.11.0",
+    "prettier": "^2.8.8",
+    "sass": "^1.63.4",
+    "vite": "^4.3.9"
+  }
+}
