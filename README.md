@@ -2,8 +2,6 @@
 
 ### The best solution for quick start a simple web application
 
-## Live demo => http://todo.commondev.ru/
-
 Advantages:
 
 1. Fully Dockerized.
